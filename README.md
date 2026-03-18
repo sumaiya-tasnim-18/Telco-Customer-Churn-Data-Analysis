@@ -4,17 +4,17 @@ This repository contains my project developed for a Data Storytelling Challenge 
 kaggle Link: https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset
 
 # 📊 Project Overview
-• Domain: Telecommunications (Customer Retention & Churn Analysis)
-• Dataset: Telco Customer Churn (7,043 records, 30+ features)
-• Tools: Power BI, Python (Pandas), Excel, Canva
-• Focus Areas: Churn Analysis, KPI Tracking, Customer Segmentation, Revenue Risk Analysis, Data Storytelling 
+    • Domain: Telecommunications (Customer Retention & Churn Analysis)
+    • Dataset: Telco Customer Churn (7,043 records, 30+ features)
+    • Tools: Power BI, Python (Pandas), Excel, Canva
+    • Focus Areas: Churn Analysis, KPI Tracking, Customer Segmentation, Revenue Risk Analysis, Data Storytelling 
 
 # 🗓️ Task Breakdown
-• Data Cleaning: Handled missing values, corrected data types, and standardized categorical features
-• KPI Design: Defined churn rate, retention rate, CLTV at risk, and other key business metrics
-• Dashboard Development: Built interactive dashboards with advanced visualizations (gauge, scatter plots, waterfall, key influencers, Bar charts)
-• Insight Generation: Identified churn drivers, high-risk segments, and revenue loss factors
-• Final Storytelling Pitch / Slide Decks - Presentation
+    • Data Cleaning: Handled missing values, corrected data types, and standardized categorical features
+    • KPI Design: Defined churn rate, retention rate, CLTV at risk, and other key business metrics
+    • Dashboard Development: Built interactive dashboards with advanced visualizations (gauge, scatter plots, waterfall, key influencers, Bar charts)
+    • Insight Generation: Identified churn drivers, high-risk segments, and revenue loss factors
+    • Final Storytelling Pitch / Slide Decks - Presentation
 
 # 🎯 Outcome
 This project demonstrates the ability to build an end-to-end data analytics solution—from data preprocessing to advanced visualization and insight generation. It highlights skills in Power BI, business analysis, and data storytelling to support strategic decision-making and improve customer retention.
