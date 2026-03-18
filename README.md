@@ -12,7 +12,7 @@ kaggle Link: https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-
 # 🗓️ Task Breakdown
     • Data Cleaning: Handled missing values, corrected data types, and standardized categorical features
     • KPI Design: Defined churn rate, retention rate, CLTV at risk, and other key business metrics
-    • Dashboard Development: Built interactive dashboards with advanced visualizations (gauge, scatter plots, waterfall, key influencers, Bar charts)
+    • Dashboard Development: Built 2 pages interactive dashboards with advanced visualizations (gauge, scatter plots, waterfall, key influencers, Bar charts)
     • Insight Generation: Identified churn drivers, high-risk segments, and revenue loss factors
     • Final Storytelling Pitch / Slide Decks - Presentation
 
